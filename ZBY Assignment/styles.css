@@ -1,0 +1,96 @@
+/* Objects */
+body {
+    background-color: rgb(205, 118, 92);
+}
+
+h1 {
+    font-family: 'Noto Sans Display', sans-serif;
+    font-weight: 800;
+}
+h2 {
+    font-family: 'Noto Sans Display', sans-serif;
+    font-weight: 800;
+}
+h3 {
+    font-family: 'Noto Sans Display', sans-serif;
+    font-weight: 800;
+}
+h4 {
+    font-family: 'Noto Sans Display', sans-serif;
+    font-weight: 800;
+}
+
+h5 {
+    font-family: 'Noto Sans Display', sans-serif;
+    font-weight: 800;
+}
+
+/* Classes */ 
+.navbar-brand {
+    font-family: 'Oxygen', sans-serif;
+    padding-left: 5px;
+}
+
+.navbar .navbar-nav {
+    float: none;
+    vertical-align: top;
+  }
+  
+.navbar .navbar-collapse {
+    text-align: center;
+  }
+
+.center {
+    max-width: 100%;
+    max-height: 100vh;
+    
+    padding-left: 100px;
+}
+
+.carousel-control-prev {
+    margin-left: -150px;
+}
+
+.carousel-control-next {
+    margin-right: -150px;
+}
+
+.carousel-caption{
+    position:relative;
+    padding-top: 30px;
+    padding-right: 350px;
+}
+
+.social {
+    text-align: center;
+}
+
+
+/* IDs */
+#intro-text {
+    color: rgb(255, 255, 255);
+}
+
+#intro-image {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+    padding-left: 100px;
+}
+
+#intro {
+    padding-bottom: 100px;
+}
+
+#testimonials { 
+    background-color: rgb(255, 105, 138);
+    padding-top: 100px;
+}
+
+
+#social-icons {
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    font-size: larger;
+}
